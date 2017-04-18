@@ -1,0 +1,9 @@
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\bin\Debug\ch4_TypingGame.exe.config
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.exe
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.pdb
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\bin\Debug\ch4_TypingGame.exe
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\bin\Debug\ch4_TypingGame.pdb
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\obj\Debug\TypingGame.csprojResolveAssemblyReference.cache
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.Form1.resources
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.Properties.Resources.resources
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\obj\Debug\TypingGame.csproj.GenerateResource.Cache

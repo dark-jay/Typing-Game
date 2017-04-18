@@ -1,0 +1,12 @@
+c:\users\jay\documents\visual studio 2013\Projects\ch4_TypingGame\ch4_TypingGame\bin\Debug\ch4_TypingGame.exe.config
+c:\users\jay\documents\visual studio 2013\Projects\ch4_TypingGame\ch4_TypingGame\bin\Debug\ch4_TypingGame.exe
+c:\users\jay\documents\visual studio 2013\Projects\ch4_TypingGame\ch4_TypingGame\bin\Debug\ch4_TypingGame.pdb
+c:\users\jay\documents\visual studio 2013\Projects\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.csprojResolveAssemblyReference.cache
+c:\users\jay\documents\visual studio 2013\Projects\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.Form1.resources
+c:\users\jay\documents\visual studio 2013\Projects\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.Properties.Resources.resources
+c:\users\jay\documents\visual studio 2013\Projects\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.csproj.GenerateResource.Cache
+c:\users\jay\documents\visual studio 2013\Projects\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.exe
+c:\users\jay\documents\visual studio 2013\Projects\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.pdb
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\bin\Debug\ch4_TypingGame.exe.config
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.exe
+E:\JaY's_Projects\Head first c (code projects)\ch4_TypingGame\ch4_TypingGame\obj\Debug\ch4_TypingGame.pdb
